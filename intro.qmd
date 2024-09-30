@@ -1,0 +1,8 @@
+# Introduction
+
+Este es un libro creado a partir del curso proporcionado por EdX. "Machine Learning with Python: A Practical Introduction". 
+
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
